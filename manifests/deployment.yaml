@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: test-container
-          image: lunix007/user-test-deployed:7b57c4567188c5e940092ac644cca6b9a7c9abf5
+          image: lunix007/user-test-deployed:840e27b8dd3321acc75608c2a3eb3308fcda0ebb
           ports:
             - containerPort: 80
           resources:
