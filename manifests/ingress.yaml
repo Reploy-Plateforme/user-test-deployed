@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: test.eastus.cloudapp.azure.com
+  - host: 172.171.186.132
     http:
       paths:
       - path: /
